@@ -37,5 +37,5 @@ double find_max(double* pa, int size)
 		if (pa[i] > max) max = pa[i];//새로운 배열 요소의 값이 max 보다 크면 대입
 	}
 
-	return max;
+	
 }
