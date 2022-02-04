@@ -1,28 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
+    <ClCompile Include="2-1.c" />
+    <ClCompile Include="2-2.c" />
+    <ClCompile Include="2-7.c" />
+    <ClCompile Include="3-2.c" />
+    <ClCompile Include="3-3.c" />
+    <ClCompile Include="3-4.c" />
+    <ClCompile Include="3-5.c" />
+    <ClCompile Include="3-6.c" />
+    <ClCompile Include="3-7.c" />
+    <ClCompile Include="3-8.c" />
+    <ClCompile Include="3-9.c" />
+    <ClCompile Include="3-10.c" />
+    <ClCompile Include="3-11.c" />
+    <ClCompile Include="4-1.c" />
+    <ClCompile Include="4-2.c" />
+    <ClCompile Include="4-4.c" />
+    <ClCompile Include="4-11.c" />
+    <ClCompile Include="4-challenge.c" />
+    <ClCompile Include="4-13.c" />
+    <ClCompile Include="5-make-challenge.c" />
+    <ClCompile Include="7-3.c" />
+    <ClCompile Include="7-5.c" />
+    <ClCompile Include="sum_from_1_to_ten_with_recursive.c" />
+    <ClCompile Include="check_is_prime.c" />
+    <ClCompile Include="my_power.c" />
+    <ClCompile Include="choose_menu.c" />
+    <ClCompile Include="8-1.c" />
+    <ClCompile Include="8-2.c" />
+    <ClCompile Include="8-3.c" />
+    <ClCompile Include="8-4.c" />
+    <ClCompile Include="8-5.c" />
+    <ClCompile Include="8-6.c" />
+    <ClCompile Include="bigger_to_small.c" />
+    <ClCompile Include="calcul_bmi.c" />
+    <ClCompile Include="print_prime_number.c" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="9-5.c" />
+    <ClCompile Include="9-6.c" />
+    <ClCompile Include="9-7.c" />
+    <ClCompile Include="move_number.c" />
+    <ClCompile Include="10-1.c" />
+    <ClCompile Include="10-2.c" />
+    <ClCompile Include="10-3.c" />
+    <ClCompile Include="10-4.c" />
+    <ClCompile Include="10-5.c" />
+    <ClCompile Include="10-6.c" />
+    <ClCompile Include="10-7.c" />
+    <ClCompile Include="calendar.c" />
+    <ClCompile Include="lotto.c" />
+    <ClCompile Include="10-a.c" />
+    <ClCompile Include="10-b.c" />
+    <ClCompile Include="check_lotto.c" />
+    <ClCompile Include="mod-5.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-1.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2-2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2-7.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{d1dd5040-317b-4706-8b9c-6b4049174905}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
